@@ -1,1 +1,61 @@
 /* Write your CSS here! */
+
+
+h1 {
+    font-family: verdana;
+    font-size: 40px;
+    opacity: 0.5;
+    text-align: center;
+}
+
+#mainHeading{
+    background-color: red;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: verdana;
+    font-size: 30px;
+    text-decoration-color: wheat;
+}
+
+body {
+    background-color: coral;
+    opacity: 0.9;
+    grid-column: auto;
+    font-family: verdana;
+    margin-trim: 8px;
+}
+
+p {
+    background-color: aliceblue;
+}
+
+p.tester{
+background-color: aqua;
+width: 30%;
+}
+
+footer{
+    width: 55%;
+}
+
+img {
+    align-items: center;
+}
+
+article {
+    text-align: center;
+}
+
+img {
+    border: 2px solid black;
+    width: 550px;
+    height: 350px;
+
+}
+
+ul {
+    text-align: center;
+    font-family: verdana;
+}
